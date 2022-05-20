@@ -1,0 +1,48 @@
+body {
+    background-color: rgba(245, 177, 31, 0.507);
+    color: rgb(0, 0, 0);
+}
+#main {
+    width: 800px;
+    margin: 5em auto;
+    padding: 2em;
+    
+}
+
+#h1_1 {
+    color: rgb(165, 2, 10);
+}
+
+.first1 {
+    text-decoration: underline;
+    margin-left: 20px;
+}
+
+.first2 {
+    color:rgb(165, 2, 10);
+    font-weight: bold;
+}
+
+.renkli_baslik {
+    background-color:rgb(165, 2, 10);
+    display: inline;
+    border: 0,2px solid white;
+    border-radius: 15px;
+    padding: 5px;
+    color: white;
+    font-weight: bold;
+}
+
+.malzemeler_baslık {
+    background-color:rgb(165, 2, 10);
+    display: inline;
+    border: 0,2px solid white;
+    border-radius: 15px;
+    padding: 1px;
+    color: white;
+    font-weight: bold;  
+}
+
+.eleman {
+    margin: 5px;
+}
